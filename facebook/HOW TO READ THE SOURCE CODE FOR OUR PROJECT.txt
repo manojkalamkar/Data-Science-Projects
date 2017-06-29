@@ -1,0 +1,11 @@
+-> iPythons workbooks have been as per the corresponding code of the Slide Numbers.For example-> FB_DDIG_SLIDE2 contain
+   groups Location world map.
+-> Whereever its possible to seggregate the code, we have created separate iPython workbook for 1 corresponding slide
+   like FB_DDIG_SLIDE 18 whihc contains code for Slide No 18. 
+-> And whereever its not possible to seggregate the code, we have mentioned the code for multiple slides in single python
+   python workbook, for ex- FB_DDIG_SLIDE 10,13,14,15,16,17 contains code for Slides 10,13,14,15,16 & 17. We have further
+   mentioned inside the iPython workbook as well where exactly the analysis is starting for which Slide and where it is 
+   ending!!
+
+
+THANK YOU!!
